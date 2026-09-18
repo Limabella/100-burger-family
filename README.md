@@ -4,6 +4,14 @@
 
 The previous Unity project is preserved under `legacy-unity/` for reference only.
 
+## Story and Session Goal
+
+Families wind MaAM's great spring to bring a restaurant's peak-time service to life. The target is a 5–10 minute session, with family cooperation shortening completion time for the same set of orders.
+
+[The First Peak-Time Spring — story and cooperative play design (Korean)](docs/PEAK_TIME_WINDING_STORY.md)
+
+This is a design target, not a claim that the winding or family co-op features are implemented.
+
 ## Direction
 
 ```text
